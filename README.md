@@ -1,2 +1,2 @@
-# tonDev_hw_2
+# tonDev_hw_3
 Create function multiply
